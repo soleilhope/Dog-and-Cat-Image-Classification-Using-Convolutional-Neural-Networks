@@ -27,7 +27,7 @@ This here is my final project for Machine Learning - CSC 4850. My group members 
 * Jupyter notebooks: The repository contains Jupyter notebooks that walk through the process of training the model, visualizing the results, and experimenting with different hyperparameters and techniques to improve performance.
 ## Final Report
 
-[Final Report](FinalReport.pdf)
+[Final Report](Final Report Dog and Cat Image Classification Using Convolutional Neural Networks(CNN).pdf)
 
 ## License
 
