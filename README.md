@@ -1,12 +1,12 @@
 # Dog-and-Cat-Image-Classification-Using-Convolutional-Neural-Networks
 
 Hi!
-This here is my final project for Machine Learning - CSC 4850. My group members and I chose this project because we all shared the same interest in learning more about neural networks and wanted to understand how image classifcation works in detail. This GitHub repository contains an implementation of a deep learning model for classifying images of dogs and cats. 
+This here is my final project for Machine Learning - CSC 4850. My group members and I chose this project because we all shared the same interest in learning more about neural networks and wanted to understand how image classification works in detail. This GitHub repository contains an implementation of a deep learning model for classifying images of dogs and cats. 
 ## Team Members
 * Soleil St Louis: Assisted in building the GradCam model and Saliency Map
 * Muhammand Khan: Assisted in training the model and figuring out bugs in the program.
 * Prahalad Muralidharam: Ensure smooth collaboration in the project and brought the idea of this project
-* Calvin Tran: Implemented all the models and visualization of the models(GradCam, GradCam++, Saliency Map), fine-tuned the hyperparameters for optimal performance, coordinated the team's efforts.
+* Calvin Tran: Implemented all the models and visualization of the models(GradCam, GradCam++, Saliency Map), fine-tuned the hyperparameters for optimal performance, and coordinated the team's efforts.
 ## Objectives
 * Build a CNN network to classify Dogs and Cats using a pre-trained model(VGG-16)
 * Build a KNN model to classify Dogs and Cats 
@@ -27,7 +27,7 @@ This here is my final project for Machine Learning - CSC 4850. My group members 
 * Jupyter notebooks: The repository contains Jupyter notebooks that walk through the process of training the model, visualizing the results, and experimenting with different hyperparameters and techniques to improve performance.
 ## Final Report
 
-[Final Report](Final Report Dog and Cat Image Classification Using Convolutional Neural Networks(CNN).pdf)
+[Final Report](FinalReport.pdf)
 
 ## License
 
